@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
@@ -66,3 +67,30 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+=======
+# Dokumentace
+## Tým: Slezáková, Blažek
+### CodeIgniter
+* Verze: 4.4.3
+### PHP
+* Verze: 8.2.4
+## Jazyk
+### Databáze: 
+* česky
+* jednotné číslo, všechno malým písmenem
+* snake case (př. jmeno_databaze)
+### Modelů, kontrolerů, migrací, seederů a knihoven:
+* česky
+* pascal case (př. NovyModel)
+### Názvy Views:
+* česky
+* camel case (př. hlavníStránka)
+## Složky Views
+*  česky
+### Názvy Rout:
+* anglicky
+* Kebab case (př. name-route)
+### Názvy ostatních tříd, metod a proměnných:
+* anglicky
+* camel case (př. getSomething)
+>>>>>>> c47fe1d5b3e92c5f56fdf5f582c1b2ff7972c2c5
